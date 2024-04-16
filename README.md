@@ -21,5 +21,6 @@ The code in this repository is base on:
 npx create-next-app@latest
 cd nextjs-stripe-ex1/
 npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
 npm i stripe
 ```
